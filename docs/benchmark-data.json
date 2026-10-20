@@ -1,0 +1,17 @@
+{
+  "source": "2025 course presentation, slide 34",
+  "status": "historical table transcription; not rerun",
+  "excluded": {"test7": "The presentation explicitly labels its result incorrect."},
+  "reported_means": {"pipeline_cycles": 4013, "reference_cycles": 3486, "extra_cycles": 483},
+  "rows": [
+    {"test": "test1", "pipeline_cycles": 1457, "reference_cycles": 1268, "reported_extra_cycles": 185},
+    {"test": "test2", "pipeline_cycles": 8406, "reference_cycles": 7569, "reported_extra_cycles": 833},
+    {"test": "test3", "pipeline_cycles": 4224, "reference_cycles": 3786, "reported_extra_cycles": 434},
+    {"test": "test4", "pipeline_cycles": 1849, "reference_cycles": 1577, "reported_extra_cycles": 268},
+    {"test": "test5", "pipeline_cycles": 1497, "reference_cycles": 1285, "reported_extra_cycles": 208},
+    {"test": "test6", "pipeline_cycles": 8354, "reference_cycles": 7241, "reported_extra_cycles": 1109},
+    {"test": "test8", "pipeline_cycles": 1763, "reference_cycles": 1565, "reported_extra_cycles": 194},
+    {"test": "test9", "pipeline_cycles": 6149, "reference_cycles": 5200, "reported_extra_cycles": 945},
+    {"test": "test10", "pipeline_cycles": 1422, "reference_cycles": 1247, "reported_extra_cycles": 171}
+  ]
+}
