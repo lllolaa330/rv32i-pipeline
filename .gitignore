@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+*.vvp
+*.vcd
+*.fst
+*.wdb
+*.log
+.Xil/
+*.jou
+program.txt
+reg_file.txt
+dmem.txt
